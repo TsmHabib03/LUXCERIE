@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-08T10:41:12.736Z",
+  "title": "Design System: Luxcerie",
+  "extensions": {
+    "colorMeta": {
+      "gold": {
+        "role": "primary",
+        "displayName": "Metallic Gold",
+        "canonical": "#c5a059",
+        "tonalRamp": [
+          "oklch(15% 0.09 83)",
+          "oklch(25% 0.09 83)",
+          "oklch(35% 0.09 83)",
+          "oklch(45% 0.09 83)",
+          "oklch(58% 0.09 83)",
+          "oklch(70% 0.09 83)",
+          "oklch(83% 0.09 83)",
+          "oklch(95% 0.0225 83)"
+        ]
+      },
+      "ground": {
+        "role": "neutral",
+        "displayName": "Off-white Ground",
+        "canonical": "#fdfbf8",
+        "tonalRamp": [
+          "oklch(15% 0.015 75)",
+          "oklch(25% 0.015 75)",
+          "oklch(35% 0.015 75)",
+          "oklch(45% 0.015 75)",
+          "oklch(58% 0.015 75)",
+          "oklch(70% 0.015 75)",
+          "oklch(83% 0.015 75)",
+          "oklch(95% 0.00375 75)"
+        ]
+      },
+      "panel": {
+        "role": "neutral",
+        "displayName": "White Panel",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(25% 0 0)",
+          "oklch(35% 0 0)",
+          "oklch(45% 0 0)",
+          "oklch(58% 0 0)",
+          "oklch(70% 0 0)",
+          "oklch(83% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Warm Ink",
+        "canonical": "#2b2723",
+        "tonalRamp": [
+          "oklch(15% 0.015 75)",
+          "oklch(25% 0.015 75)",
+          "oklch(35% 0.015 75)",
+          "oklch(45% 0.015 75)",
+          "oklch(58% 0.015 75)",
+          "oklch(70% 0.015 75)",
+          "oklch(83% 0.015 75)",
+          "oklch(95% 0.00375 75)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Warm Stone",
+        "canonical": "#6e665d",
+        "tonalRamp": [
+          "oklch(15% 0.015 75)",
+          "oklch(25% 0.015 75)",
+          "oklch(35% 0.015 75)",
+          "oklch(45% 0.015 75)",
+          "oklch(58% 0.015 75)",
+          "oklch(70% 0.015 75)",
+          "oklch(83% 0.015 75)",
+          "oklch(95% 0.00375 75)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Straight Rule",
+        "canonical": "#e3d9ce",
+        "tonalRamp": [
+          "oklch(15% 0.015 75)",
+          "oklch(25% 0.015 75)",
+          "oklch(35% 0.015 75)",
+          "oklch(45% 0.015 75)",
+          "oklch(58% 0.015 75)",
+          "oklch(70% 0.015 75)",
+          "oklch(83% 0.015 75)",
+          "oklch(95% 0.00375 75)"
+        ]
+      },
+      "logo-ground": {
+        "role": "neutral",
+        "displayName": "Logo White",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(25% 0 0)",
+          "oklch(35% 0 0)",
+          "oklch(45% 0 0)",
+          "oklch(58% 0 0)",
+          "oklch(70% 0 0)",
+          "oklch(83% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "gold-ink": {
+        "role": "primary",
+        "displayName": "Deep Gold",
+        "canonical": "#85611d",
+        "tonalRamp": [
+          "oklch(15% 0.09 83)",
+          "oklch(25% 0.09 83)",
+          "oklch(35% 0.09 83)",
+          "oklch(45% 0.09 83)",
+          "oklch(58% 0.09 83)",
+          "oklch(70% 0.09 83)",
+          "oklch(83% 0.09 83)",
+          "oklch(95% 0.0225 83)"
+        ]
+      },
+      "gold-hover": {
+        "role": "primary",
+        "displayName": "Hover Gold",
+        "canonical": "#b58e45",
+        "tonalRamp": [
+          "oklch(15% 0.09 83)",
+          "oklch(25% 0.09 83)",
+          "oklch(35% 0.09 83)",
+          "oklch(45% 0.09 83)",
+          "oklch(58% 0.09 83)",
+          "oklch(70% 0.09 83)",
+          "oklch(83% 0.09 83)",
+          "oklch(95% 0.0225 83)"
+        ]
+      },
+      "gold-wash": {
+        "role": "primary",
+        "displayName": "Gold Wash",
+        "canonical": "#f4ead7",
+        "tonalRamp": [
+          "oklch(15% 0.09 83)",
+          "oklch(25% 0.09 83)",
+          "oklch(35% 0.09 83)",
+          "oklch(45% 0.09 83)",
+          "oklch(58% 0.09 83)",
+          "oklch(70% 0.09 83)",
+          "oklch(83% 0.09 83)",
+          "oklch(95% 0.0225 83)"
+        ]
+      },
+      "control-line": {
+        "role": "primary",
+        "displayName": "Control Gold",
+        "canonical": "#a17b36",
+        "tonalRamp": [
+          "oklch(15% 0.09 83)",
+          "oklch(25% 0.09 83)",
+          "oklch(35% 0.09 83)",
+          "oklch(45% 0.09 83)",
+          "oklch(58% 0.09 83)",
+          "oklch(70% 0.09 83)",
+          "oklch(83% 0.09 83)",
+          "oklch(95% 0.0225 83)"
+        ]
+      },
+      "pink": {
+        "role": "primary",
+        "displayName": "Blush Pink",
+        "canonical": "#f8efed",
+        "tonalRamp": [
+          "oklch(15% 0.012 35)",
+          "oklch(25% 0.012 35)",
+          "oklch(35% 0.012 35)",
+          "oklch(45% 0.012 35)",
+          "oklch(58% 0.012 35)",
+          "oklch(70% 0.012 35)",
+          "oklch(83% 0.012 35)",
+          "oklch(95% 0.003 35)"
+        ]
+      },
+      "stage-tint": {
+        "role": "neutral",
+        "displayName": "Stage Tint",
+        "canonical": "#faf6f1",
+        "tonalRamp": []
+      },
+      "inactive-sequence": {
+        "role": "neutral",
+        "displayName": "Inactive Sequence",
+        "canonical": "#b4a99b",
+        "tonalRamp": []
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Identity",
+        "purpose": "Brand display lettering."
+      },
+      "title": {
+        "displayName": "Product title",
+        "purpose": "Serif product and collection headings."
+      },
+      "body": {
+        "displayName": "Inquiry body",
+        "purpose": "Dialog explanations."
+      },
+      "control": {
+        "displayName": "Action",
+        "purpose": "Functional navigation and controls."
+      }
+    },
+    "shadows": [
+      {
+        "name": "stage-product",
+        "value": "drop-shadow(0 24px 16px rgba(43,39,35,.17))",
+        "purpose": "Product depth on stage."
+      },
+      {
+        "name": "card-product",
+        "value": "drop-shadow(0 12px 8px rgba(43,39,35,.12))",
+        "purpose": "Product image inside Bento."
+      }
+    ],
+    "motion": [
+      {
+        "name": "state-transition",
+        "value": ".18s",
+        "purpose": "Control color and background changes."
+      },
+      {
+        "name": "depth-easing",
+        "value": "1 - exp(-dt * .0072)",
+        "purpose": "Continuous stage interpolation; immediate under reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "small-phone",
+        "value": "380px"
+      },
+      {
+        "name": "tablet",
+        "value": "600px"
+      },
+      {
+        "name": "stacked",
+        "value": "900px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1100px"
+      },
+      {
+        "name": "wide-desktop",
+        "value": "1600px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Gold primary inquiry action.",
+      "html": "<button class=\"ds-button ds-primary\">DM to inquire <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></button>",
+      "css": ".ds-button{display:flex;align-items:center;justify-content:space-between;gap:34px;min-height:48px;padding:12px 20px;font:12px Manrope,Arial,sans-serif;cursor:pointer;border-radius:0!important;border:1px solid var(--control-line,#a17b36);transition:background .18s,color .18s}.ds-button:focus-visible{outline:2px solid var(--gold-ink,#85611d);outline-offset:4px}.ds-primary{color:var(--ink,#2b2723);background:var(--gold,#c5a059)}.ds-primary:hover{background:var(--gold-hover,#b58e45);border-color:var(--gold-ink,#85611d)}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Straight outlined secondary action.",
+      "html": "<button class=\"ds-button ds-secondary\">Save this piece <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></button>",
+      "css": ".ds-button{display:flex;align-items:center;justify-content:space-between;gap:34px;min-height:48px;padding:12px 20px;font:12px Manrope,Arial,sans-serif;cursor:pointer;border-radius:0!important;border:1px solid var(--control-line,#a17b36);transition:background .18s,color .18s}.ds-button:focus-visible{outline:2px solid var(--gold-ink,#85611d);outline-offset:4px}.ds-secondary{background:transparent;color:var(--gold-ink,#85611d)}.ds-secondary:hover{background:var(--gold,#c5a059);color:var(--ink,#2b2723)}"
+    },
+    {
+      "name": "Inquiry Field",
+      "kind": "input",
+      "refersTo": "inquiry-field",
+      "description": "Editable message prepared before Instagram.",
+      "html": "<textarea class=\"ds-inquiry\" aria-label=\"Your inquiry message\">Hello Luxcerie, I would like to inquire about this piece.</textarea>",
+      "css": ".ds-inquiry{width:100%;min-height:175px;padding:20px;font:16px/1.8 Manrope,Arial,sans-serif;color:var(--ink,#2b2723);background:var(--panel,#ffffff);border:1px solid var(--control-line,#a17b36);border-radius:0!important;caret-color:var(--gold-ink,#85611d);resize:vertical}.ds-inquiry:focus-visible{outline:2px solid var(--gold-ink,#85611d);outline-offset:4px}"
+    },
+    {
+      "name": "Glass Product Card",
+      "kind": "card",
+      "refersTo": "product-card",
+      "description": "Tonal square container with product title and discovery action.",
+      "html": "<article class=\"ds-card\"><h3>Saint Laurent</h3><p>Puffer</p><button class=\"ds-discover\">Discover this piece <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></button></article>",
+      "css": ".ds-card{padding:16px 15px 11px;border:1px solid var(--line,#e3d9ce);border-radius:0!important;color:var(--ink,#2b2723);background:linear-gradient(140deg,rgba(255,255,255,.88),rgba(248,239,237,.6));backdrop-filter:blur(14px)}.ds-card:hover{border-color:var(--control-line,#a17b36)}.ds-card h3{font:400 21px/1.15 \"Bodoni Moda\",Georgia,serif;margin:8px 0;letter-spacing:-.02em}.ds-card p{font:11px/1.5 Manrope,Arial,sans-serif;color:var(--muted,#6e665d)}.ds-discover{border:0;min-height:44px;border-radius:0!important;background:none;color:var(--gold-ink,#85611d);font:12px Manrope,Arial,sans-serif;display:flex;gap:16px;align-items:center;cursor:pointer}.ds-discover:hover{text-decoration:underline;text-underline-offset:4px}.ds-discover:focus-visible{outline:2px solid var(--gold-ink,#85611d);outline-offset:4px}"
+    },
+    {
+      "name": "Bottom Navigation",
+      "kind": "nav",
+      "description": "Persistent collection navigation with gold active state.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Collection navigation\"><button class=\"ds-active\">Collection</button><button>Saved</button><button>Inquiry list</button><button>Our story</button></nav>",
+      "css": ".ds-nav{position:fixed;bottom:0;left:0;right:0;display:grid;grid-template-columns:repeat(4,1fr);background:rgba(255,255,255,.96);border-top:1px solid var(--line,#e3d9ce);border-radius:0!important;backdrop-filter:blur(18px)}.ds-nav button{border:0;border-radius:0!important;min-height:64px;background:transparent;color:var(--muted,#6e665d);font:11px Manrope,Arial,sans-serif;cursor:pointer}.ds-nav .ds-active,.ds-nav button:hover{color:var(--gold-ink,#85611d)}.ds-nav button:focus-visible{outline:2px solid var(--gold-ink,#85611d);outline-offset:-4px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Display Vitrine",
+    "overview": "Luxcerie's white and off-white glass surfaces frame real bag photography, with restrained blush warmth and metallic gold for identity and action. High-contrast serif lettering carries the identity; quieter sans-serif controls guide browsing and inquiries. Straight borders and square containers establish a precise, restrained retail presence.",
+    "keyCharacteristics": [
+      "Real transparent product photographs remain the focal content.",
+      "Gold marks identity, selected states and primary actions.",
+      "Every UI corner is square.",
+      "Typography separates expressive identity from practical controls."
+    ],
+    "rules": [
+      {
+        "name": "The Gold Signal Rule",
+        "body": "Gold communicates identity and action; pink stays in surfaces, while product photographs provide the collection's stronger color variation.",
+        "section": "colors"
+      },
+      {
+        "name": "The Role Separation Rule",
+        "body": "Serif type carries identity and product titles; sans-serif type carries facts, descriptions and actions.",
+        "section": "typography"
+      },
+      {
+        "name": "The Square Rule",
+        "body": "All UI borders, cards, controls, fields, dividers and navigation have rigid 90-degree corners, with zero radius.",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "**Do** keep real product photographs dominant and preserve transparent contours.",
+      "**Do** use gold to identify actions and selected states.",
+      "**Do** retain visible focus, reduced-motion support and mobile safe-area spacing.",
+      "**Do** ask for product price and availability through the inquiry flow when those facts are unavailable."
+    ],
+    "donts": [
+      "**Don't** introduce curved corners into UI components.",
+      "**Don't** replace bag photography with decorative illustration.",
+      "**Don't** invent prices, availability, certification records or perfume inventory.",
+      "**Don't** use the decorative wordmark tracking as a style for long body copy."
+    ]
+  }
+}

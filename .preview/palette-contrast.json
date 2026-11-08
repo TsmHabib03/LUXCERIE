@@ -1,0 +1,66 @@
+[
+  {
+    "role": "Gold label on white",
+    "foreground": "#85611d",
+    "background": "#ffffff",
+    "contrast": 5.64,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "role": "Gold label on pink",
+    "foreground": "#85611d",
+    "background": "#f8efed",
+    "contrast": 4.98,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "role": "Gold label on selected wash",
+    "foreground": "#85611d",
+    "background": "#f4ead7",
+    "contrast": 4.72,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "role": "Muted label on pink",
+    "foreground": "#6e665d",
+    "background": "#f8efed",
+    "contrast": 4.99,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "role": "CTA text",
+    "foreground": "#2b2723",
+    "background": "#c5a059",
+    "contrast": 6.03,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "role": "CTA hover text",
+    "foreground": "#2b2723",
+    "background": "#b58e45",
+    "contrast": 4.88,
+    "minimum": 4.5,
+    "pass": true
+  },
+  {
+    "role": "Control border on white",
+    "foreground": "#a17b36",
+    "background": "#ffffff",
+    "contrast": 3.89,
+    "minimum": 3,
+    "pass": true
+  },
+  {
+    "role": "Control border on gold wash",
+    "foreground": "#a17b36",
+    "background": "#f4ead7",
+    "contrast": 3.26,
+    "minimum": 3,
+    "pass": true
+  }
+]

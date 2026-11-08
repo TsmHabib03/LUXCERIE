@@ -1,0 +1,45 @@
+{
+  "metrics": [
+    {
+      "width": 1440,
+      "height": 900,
+      "horizontalOverflow": false,
+      "brokenImages": 0,
+      "rounded": 0,
+      "navBottom": 900
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "horizontalOverflow": false,
+      "brokenImages": 0,
+      "rounded": 0,
+      "navBottom": 768
+    },
+    {
+      "width": 820,
+      "height": 900,
+      "horizontalOverflow": false,
+      "brokenImages": 0,
+      "rounded": 0,
+      "navBottom": 900
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "horizontalOverflow": false,
+      "brokenImages": 0,
+      "rounded": 0,
+      "navBottom": 844
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "horizontalOverflow": false,
+      "brokenImages": 0,
+      "rounded": 0,
+      "navBottom": 667
+    }
+  ],
+  "errors": []
+}

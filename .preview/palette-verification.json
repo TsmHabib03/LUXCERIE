@@ -1,0 +1,71 @@
+[
+  {
+    "viewport": "desktop",
+    "errors": [],
+    "noHorizontalOverflow": true,
+    "fixedNav": true,
+    "squareCorners": true,
+    "allImagesLoaded": true,
+    "goldFill": "rgb(197, 160, 89)",
+    "ctaText": "rgb(43, 39, 35)",
+    "activeGold": "rgb(133, 97, 29)",
+    "glassBlur": "blur(14px)"
+  },
+  {
+    "viewport": "mobile",
+    "errors": [],
+    "noHorizontalOverflow": true,
+    "fixedNav": true,
+    "squareCorners": true,
+    "allImagesLoaded": true,
+    "goldFill": "rgb(197, 160, 89)",
+    "ctaText": "rgb(43, 39, 35)",
+    "activeGold": "rgb(133, 97, 29)",
+    "glassBlur": "blur(14px)"
+  },
+  {
+    "interaction": {
+      "wrap": "05 / 05 to 01 / 05",
+      "saved": "1",
+      "selected": "1",
+      "review": "Hello Luxcerie, I would like to inquire about: Saint Laurent Puffer (Black). Could you share availability, price, condition, inclusions and authentication details?",
+      "focus": "drawer-title"
+    }
+  },
+  {
+    "viewport": "mobile-small",
+    "errors": [],
+    "noHorizontalOverflow": true,
+    "fixedNav": true,
+    "squareCorners": true,
+    "allImagesLoaded": true,
+    "goldFill": "rgb(197, 160, 89)",
+    "ctaText": "rgb(43, 39, 35)",
+    "activeGold": "rgb(133, 97, 29)",
+    "glassBlur": "blur(14px)"
+  },
+  {
+    "viewport": "tablet",
+    "errors": [],
+    "noHorizontalOverflow": true,
+    "fixedNav": true,
+    "squareCorners": true,
+    "allImagesLoaded": true,
+    "goldFill": "rgb(197, 160, 89)",
+    "ctaText": "rgb(43, 39, 35)",
+    "activeGold": "rgb(133, 97, 29)",
+    "glassBlur": "blur(14px)"
+  },
+  {
+    "viewport": "compact-desktop",
+    "errors": [],
+    "noHorizontalOverflow": true,
+    "fixedNav": true,
+    "squareCorners": true,
+    "allImagesLoaded": true,
+    "goldFill": "rgb(197, 160, 89)",
+    "ctaText": "rgb(43, 39, 35)",
+    "activeGold": "rgb(133, 97, 29)",
+    "glassBlur": "blur(14px)"
+  }
+]

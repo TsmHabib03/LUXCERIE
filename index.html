@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#fdfbf8">
+  <meta name="description" content="Luxcerie by Cedie Jasen Manlutac. Authentic luxury bags & perfume, since 2015. Entrupy verified. San Fernando, Pampanga. DM @luxcerie to inquire.">
+  <title>Luxcerie — Luxury Bags & Perfume</title>
+  <link rel="icon" type="image/svg+xml" href="assets/luxcerie/monogram.svg">
+  <link rel="stylesheet" href="assets/luxcerie/luxcerie.css">
+  <script src="assets/luxcerie/luxcerie.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#collection">Skip to collection</a>
+  <div class="page">
+    <header class="header">
+      <a class="brand" href="index.html" aria-label="Luxcerie home">
+        <img class="logo" src="assets/luxcerie/monogram.svg" alt="Gold overlapping L and C Luxcerie monogram" width="64" height="64">
+        <span class="brand-name">LUXCERIE<small>BY CEDIE JASEN MANLUTAC</small></span>
+      </a>
+      <nav class="top-nav" aria-label="Main navigation">
+        <a href="#collection" aria-current="page">The collection</a>
+        <button data-action="perfume">Perfume</button>
+        <button data-action="about">The Luxcerie story</button>
+      </nav>
+      <button class="button solid header-inquire" data-action="inquire">DM to inquire <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14"/></svg></button>
+    </header>
+    <main class="main" id="collection">
+      <section class="stage" id="stage" tabindex="0" aria-label="Luxury bag collection. Scroll, drag, or use arrow keys to explore.">
+        <div class="hero">
+          <h1>Luxcerie<span>by Cedie Jasen Manlutac</span></h1>
+          <p class="hero-copy">Exceptional bags.<br>A collection worth keeping.</p>
+          <div class="trust"><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 21 6v7l-9 9-9-9V6Z"/><path d="m7 11 3 3 7-7"/></svg>ENTRUPY VERIFIED</span><span>Since 2015</span></div>
+          <p class="location">San Fernando, Pampanga</p>
+          <button class="button solid hero-inquire" data-action="inquire">DM to inquire <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14"/></svg></button>
+        </div>
+        <div class="stage-edition" aria-hidden="true">AUTHENTIC LUXURY<br>BAGS &amp; PERFUME</div>
+        <div class="objects" id="objects" aria-hidden="true"></div>
+        <div class="stage-ground" aria-hidden="true"></div>
+        <div class="stage-bottom">
+          <div class="current-piece"><span class="piece-index" id="piece-index">01 / 05</span><h2 id="piece-name">Saint Laurent</h2><p id="piece-detail">Puffer · Black chevron leather</p><button class="text-button" id="view-piece">Discover this piece <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h15m-6-6 6 6-6 6"/></svg></button></div>
+          <div class="stage-controls"><span class="scroll-hint">Scroll / drag</span><div class="sequence"><button class="arrow-button" id="previous" aria-label="Previous bag"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 6-6 6 6 6"/></svg></button><div class="sequence-steps" id="sequence-steps" role="group" aria-label="Choose a bag"></div><button class="arrow-button" id="next" aria-label="Next bag"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m10 6 6 6-6 6"/></svg></button></div></div>
+        </div>
+        <p class="affiliation">Not affiliated with the brands posted.</p>
+      </section>
+      <aside class="collection-panel" aria-labelledby="collection-title">
+        <div class="collection-heading"><h2 id="collection-title">The collection</h2><span>FIVE SELECTED PIECES</span></div>
+        <div class="bento-scroll" id="bento-scroll"><div class="bento" id="bento"></div></div>
+        <div class="collection-foot"><span>AUTHENTIC LUXURY BAGS &amp; PERFUME</span><button data-action="perfume">Explore perfume <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14"/></svg></button></div>
+      </aside>
+    </main>
+    <nav class="bottom-nav" aria-label="Collection navigation">
+      <div class="bottom-brand"><span>LUXCERIE</span><small>CURATED SINCE 2015</small></div>
+      <button class="nav-item active" data-action="collection" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 3h7v7H3Zm11 0h7v7h-7ZM3 14h7v7H3Zm11 0h7v7h-7Z"/></svg><span>Collection</span></button>
+      <button class="nav-item" data-action="saved"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v19l-6-5-6 5Z"/></svg><span>Saved <b id="saved-count">0</b></span></button>
+      <button class="nav-item" data-action="selection"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7h14v14H5ZM8 7V3h8v4m-8 5h8m-8 4h6"/></svg><span>Inquiry list <b id="selection-count">0</b></span></button>
+      <button class="nav-item" data-action="about"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 21V3h18v18ZM7 8h10m-10 4h10m-10 4h6"/></svg><span>Our story</span></button>
+      <a class="bottom-instagram" href="https://www.instagram.com/luxcerie/" target="_blank" rel="noopener noreferrer">@luxcerie <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14"/></svg></a>
+    </nav>
+  </div>
+  <dialog class="drawer" id="drawer" aria-labelledby="drawer-title">
+    <div class="drawer-top"><span>LUXCERIE</span><button class="close-button" id="close-drawer" aria-label="Close menu"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 5 14 14M5 19 19 5"/></svg></button></div>
+    <div id="drawer-content"></div>
+  </dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <p class="sr-only" id="collection-announcement" aria-live="polite"></p>
+</body>
+</html>

@@ -1,0 +1,68 @@
+{
+  "metrics": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "horizontalOverflow": false,
+      "navBottom": 900,
+      "brokenImages": 0,
+      "stageHeight": 728,
+      "rounded": 0
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "horizontalOverflow": false,
+      "navBottom": 844,
+      "brokenImages": 0,
+      "stageHeight": 447,
+      "rounded": 0
+    },
+    {
+      "viewport": [
+        375,
+        667
+      ],
+      "horizontalOverflow": false,
+      "navBottom": 667,
+      "brokenImages": 0,
+      "stageHeight": 413,
+      "rounded": 0
+    },
+    {
+      "viewport": [
+        820,
+        900
+      ],
+      "horizontalOverflow": false,
+      "navBottom": 900,
+      "brokenImages": 0,
+      "stageHeight": 480,
+      "rounded": 0
+    },
+    {
+      "viewport": [
+        1024,
+        768
+      ],
+      "horizontalOverflow": false,
+      "navBottom": 768,
+      "brokenImages": 0,
+      "stageHeight": 614,
+      "rounded": 0
+    }
+  ],
+  "errors": [],
+  "inquiry": "Hello Luxcerie, I would like to inquire about: Prada Saffiano Tote (Blue). Could you share availability, price, condition, inclusions and authentication details?",
+  "persistence": [
+    "1",
+    "1"
+  ],
+  "next": "Louis Vuitton",
+  "keyboard": "Prada",
+  "wheel": "Sac De Jour Nano · Magenta leather · Gold lock"
+}
